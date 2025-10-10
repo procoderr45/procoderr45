@@ -27,7 +27,7 @@
 ---
 
 ### 🌐 Connect with Me
-[LinkedIn]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/om-a46039367/)) |
+[LinkedIn](https://www.linkedin.com/in/om-a46039367/) |
 
 ---
 
