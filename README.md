@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Om 👋
 
-<!--
-**procoderr45/procoderr45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer | MERN | TypeScript | AWS | Cloud Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🔭 I’m currently building **Peer Learning Platform (Collexa)** — real-time rooms for collaborative study  
+- 🌱 I’m learning **AWS Cloud (EC2, IAM, S3, Lambda)** and **TypeScript** deeply  
+- 💡 Passionate about solving problems with clean architecture and scalable backend designs  
+- 🎯 Goal: Become a skilled full-stack + cloud engineer
+
+---
+
+### 🛠️ Tech Stack
+**Frontend:** React,Redux Toolkit, TypeScript, Tailwind, HTML, CSS , JS
+**Backend:** Node.js, Express.js, MongoDB, PostgreSQL 
+**Cloud:** AWS (EC2, IAM, S3)
+**Other:** Git, REST APIs, Mongoose, Prisma , JWT , Bcrypt  
+
+---
+
+### 📊 GitHub Stats
+![Om's GitHub Stats](https://github-readme-stats.vercel.app/api?username=procoderr45&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=procoderr45&layout=compact&theme=radical)
+
+---
+
+### 🌐 Connect with Me
+[LinkedIn]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/om-a46039367/)) |
+
+---
+
+⭐ *“Code. Learn. Build. Repeat.”*
