@@ -1,11 +1,11 @@
-# Hi there, I'm Om 👋
+# Hi there 👋
 
 💻 Full Stack Developer | MERN | TypeScript | AWS | Cloud Enthusiast  
 
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently building **Peer Learning Platform (Collexa)** — real-time rooms for collaborative study  
+- 🔭 I’m currently building **Peer Learning Platform (Peerly)** — real-time rooms for collaborative study  
 - 🌱 I’m learning **AWS Cloud (EC2, IAM, S3, Lambda)** and **TypeScript** deeply  
 - 💡 Passionate about solving problems with clean architecture and scalable backend designs  
 - 🎯 Goal: Become a skilled full-stack + cloud engineer
