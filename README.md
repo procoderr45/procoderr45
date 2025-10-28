@@ -26,9 +26,4 @@
 
 ---
 
-### 🌐 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/om-a46039367/) |
-
----
-
 ⭐ *“Code. Learn. Build. Repeat.”*
