@@ -20,10 +20,4 @@
 
 ---
 
-### 📊 GitHub Stats
-![Om's GitHub Stats](https://github-readme-stats.vercel.app/api?username=procoderr45&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=procoderr45&layout=compact&theme=radical)
-
----
-
 ⭐ *“Code. Learn. Build. Repeat.”*
